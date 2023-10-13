@@ -8,6 +8,6 @@ root.render(
   <React.StrictMode>
     <SearchEngine />
     <br />
-    <a href="#">Open source code by Evelyn Ewald</a>
+    <a href="https://github.com/hiraeth282/weather-react" target="_blank" rel="noreferrer">Open source code by Evelyn Ewald</a>
   </React.StrictMode>
 );
